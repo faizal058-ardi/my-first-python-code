@@ -1,2 +1,3 @@
-Leader: Faizal 
-Staff: -
+Leader: Faizal Ardi
+Staff: Oke
+Done
